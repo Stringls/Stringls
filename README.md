@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stringls
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on telegram bots
 - 📫 How to reach me Instagram: @_sadovodd_
                      Telegram:  @stringls
 
