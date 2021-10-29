@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on telegram bots
-- 📫 How to reach me Instagram: @_sadovodd_
+- 📫 How to reach me Instagram: @(underscore)sadovodd(underscore)
                      Telegram:  @stringls
 
 <!---
