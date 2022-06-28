@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Stringls
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on telegram bots
-- 📫 How to reach me Instagram: @_sadovodd_
+- 👀 I’m interested in DevOps direction
+- 🌱 I’m currently learning DevOps tools and DevOps in general
+- 💞️ I’m looking for an offer)
+- 📫 How to reach me Instagram: @__sadovodd __  
                      Telegram:  @stringls
 
 <!---
