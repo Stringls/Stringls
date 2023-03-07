@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps tools and DevOps in general
 - 💞️ I’m looking for a сup of tee
 
-## 📫 How to reach me
+## 📫 How to reach me out
 
 * Telegram: @stringls
 * LinkedIn: [link](https://www.linkedin.com/in/artem-sadovskyi)
