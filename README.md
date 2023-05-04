@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stringls
 - 👀 I’m interested in DevOps direction
-- 🌱 I’m currently learning DevOps tools and DevOps in general
+- 🌱 I’m currently learning Kubernetes and the world around it
 - 💞️ I’m looking for a сup of tee
 
 ## 📫 How to reach me out
